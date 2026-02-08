@@ -11,14 +11,14 @@ export const siteConfig = {
 
   contact: {
     phone: "+1 (555) 123-4567",
-    whatsapp: "15551234567",
+    whatsapp: "7903657504",
     email: "hello@serenityspa.com",
     address: {
       street: "123 Wellness Boulevard",
       city: "Beverly Hills",
-      state: "CA",
+      state: "Bhopal",
       zip: "90210",
-      country: "USA"
+      country: "India"
     }
   },
 
